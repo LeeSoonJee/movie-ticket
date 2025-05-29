@@ -130,7 +130,7 @@ Internet connection (for Bootstrap CDN and PayPal API, if used)
 Installation
 
 Clone the Repository
-git clone https://github.com/LeeSoonJee/movie-ticket.git
+git clone https://github.com/NguyenTrieuDaiDuong/movie-ticket.git
 cd movie-ticket
 
 
